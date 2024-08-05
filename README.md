@@ -7,6 +7,7 @@ This project aims to segment households using the Survey of Consumer Finances (S
 ### Project Structure
 
 [data](https://drive.google.com/file/d/18JFOTNY3d_lS1Z53Fscu5l2HHlO7-rsy/view?usp=drive_link): Contains the dataset used for the analysis.
+[app](https://drive.google.com/file/d/1AUOdqPCjyIX5gtEgyI46W5pVGE7x1jsC/view?usp=drive_link): Dash web application for visualizing household segments.
     
 ## Dataset
 
