@@ -33,7 +33,6 @@ The dataset used in this project is from the Survey of Consumer Finances (SCF). 
 
     Handle missing values
     Standardize numerical features
-    Encode categorical features
 
 3. Feature Selection
 
@@ -44,17 +43,16 @@ The dataset used in this project is from the Survey of Consumer Finances (SCF). 
 
     Determine the optimal number of clusters using the Elbow Method and Silhouette Score
     Apply K-Means clustering to segment households
-    Interpret and label clusters
 
 5. ## Results and Visualization
 
     Visualize clusters in 2D and 3D plots
-    Analyze the characteristics of each cluster
     Deploy a Dash web application for interactive exploration of household segments
 
    ## Results
 
-The K-Means clustering identified several distinct household segments within the group of individuals that have been turned down for credit or feared being denied credit. The interactive Dash application allows users to explore these segments in detail.
+The K-Means clustering identified several distinct household segments within the group of individuals that have been turned down for credit or feared being denied credit. 
+The interactive Dash application allows users to explore these segments in detail.
 
 ### Contributing
 
