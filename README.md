@@ -65,4 +65,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 [Data Source](https://www.federalreserve.gov/datadownload/Choose.aspx?rel=FOR)
 ## Contact
 
-For any questions or inquiries, please contact [LinkedIn](www.linkedin.com/in/hart-ofigwe).
+For any questions or inquiries, please contact [LinkedIn](www.linkedin.com/in/hart-ofigwe) and [Email](ofigwehart@gmail.com).
