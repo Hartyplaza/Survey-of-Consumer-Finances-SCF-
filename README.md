@@ -60,7 +60,7 @@ The K-Means clustering identified several distinct household segments within the
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes
 
-##Acknowledgements
+## Acknowledgements
 
     [Data Source]
 ## Contact
