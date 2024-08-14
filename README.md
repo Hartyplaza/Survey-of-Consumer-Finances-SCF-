@@ -52,8 +52,7 @@ The dataset used in this project is from the Survey of Consumer Finances (SCF). 
    ## Results
 
 The K-Means clustering identified several distinct household segments within the group of households that have been turned down for credit or feared being denied credit. 
-The interactive Dash application allows users to explore these segments in detail.
-Here is a [PDF](./kMeans%20project%20on%20consumer%20finance_1.pdf))
+The interactive Dash application allows users to explore these segments in detail. Here is a detailed [Report](./kMeans%20project%20on%20consumer%20finance_1.pdf) about the project
 
 ### Contributing
 
