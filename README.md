@@ -1,13 +1,12 @@
 # K-Means Clustering on Survey of Consumer Finances (SCF)
 ## Overview
 
-This project aims to segment households using the Survey of Consumer Finances (SCF) data, specifically focusing on individuals that have "been turned down for credit or feared being denied credit." These individuals are identified in the "TURNFEAR" column. By identifying distinct segments within this group, we can gain insights into their financial behaviors and characteristics, which can help in policy making, financial product development, and economic research.
+This project aims to segment households using the Survey of Consumer Finances (SCF) data, specifically focusing on household that have "been turned down for credit or feared being denied credit." These households are identified in the "TURNFEAR" column. By identifying distinct segments within this group, we can gain insights into their financial behaviors and characteristics, which can help in policy making, financial product development, and economic research.
 
 
 ### Project Structure
 
 [data](https://drive.google.com/file/d/18JFOTNY3d_lS1Z53Fscu5l2HHlO7-rsy/view?usp=drive_link): Contains the dataset used for the analysis.
-[app](https://drive.google.com/file/d/1AUOdqPCjyIX5gtEgyI46W5pVGE7x1jsC/view?usp=drive_link): Dash web application for visualizing household segments.
     
 ## Dataset
 
@@ -52,7 +51,7 @@ The dataset used in this project is from the Survey of Consumer Finances (SCF). 
 
    ## Results
 
-The K-Means clustering identified several distinct household segments within the group of individuals that have been turned down for credit or feared being denied credit. 
+The K-Means clustering identified several distinct household segments within the group of households that have been turned down for credit or feared being denied credit. 
 The interactive Dash application allows users to explore these segments in detail.
 
 ### Contributing
